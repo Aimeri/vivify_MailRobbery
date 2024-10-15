@@ -1,3 +1,5 @@
+If you're interested in a QBOX version of it check out <a href="https://github.com/Error420Unknown" target="_blank">Error420Unknown's</a> work right here:  <a href="https://github.com/Error420Unknown/Vivify-Mailrobbery-QBOX" target="_blank">vivify_MailRobbery for QBOX by Error420Unknown</a><br /><br />
+
 <strong>Dependencies:</strong><br />
 <a href="https://github.com/darktrovx/interact" target="_blank">Interact</a> by ChatDisabled, Devyn, Zoo and Snipe<br />
 <a href="https://github.com/ItzMuri/progressbar/" target="_blank">Progressbar</a> by ItzMuri<br /><br />
